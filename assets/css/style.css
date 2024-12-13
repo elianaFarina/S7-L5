@@ -1,0 +1,16 @@
+header {
+  background-color: #141922;
+}
+header img {
+  width: 10vw;
+}
+
+#form-btn-div {
+  margin-top: 1rem;
+  gap: 1rem;
+}
+#form-btn-div #reset-btn {
+  border: 1px solid black;
+}
+
+/*# sourceMappingURL=style.css.map */
